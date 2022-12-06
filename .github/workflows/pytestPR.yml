@@ -31,11 +31,5 @@ jobs:
           pip install -r requirements.txt
       
       - name: Run pytest
-        run: python -m pytest -vv test/*
-
-      # - name: Run Coverage
-      #   run: PYTHONPATH=src/ poetry run python -m coverage report -m;
-
-      # - name: Generate XML Report
-      #   run: PYTHONPATH=src/ poetry run python -m coverage xml
+        run: python3 -m pytest -vv tests/*
 
