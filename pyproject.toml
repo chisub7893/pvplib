@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pvplib"
-version = "0.1.0"
+version = "0.2.0"
 description = "Library to compute PVPs per https://arxiv.org/pdf/1804.05021.pdf"
 authors = ["anonymous <chisub7893@gmail.com>"]
 
