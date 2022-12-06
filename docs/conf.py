@@ -20,8 +20,8 @@ sys.path.insert(0, os.path.abspath(".."))
 # -- Project information -----------------------------------------------------
 
 project = "PVPlib"
-copyright = "2022, Julien Gori"
-author = "Julien Gori"
+copyright = "2022, Anonymous"
+author = "chisub7893"
 
 # The full version, including alpha/beta/rc tags
 release = "0.1.0"
